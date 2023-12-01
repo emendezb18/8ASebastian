@@ -1,0 +1,28 @@
+body {
+   background-color: black; 
+  
+}
+#recuadro{
+    border-style: double;
+    border-color: orange;
+    background-color: lightgray;
+}
+#recuadro2{
+    border-style: double;
+    border-color: black;
+    background-color: lightsalmon;
+}
+#recuadro3{
+    border-style: double;
+    border-color: red;
+    background-color: lightgray;
+
+}
+
+.Texto{
+    color:white
+}
+
+.Texto2{
+    color:white
+}
